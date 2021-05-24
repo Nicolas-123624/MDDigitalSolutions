@@ -1,0 +1,29 @@
+.cajon{
+width: ;
+float: left;
+
+}
+.cajon2{
+float: right;
+width: 50%;
+
+}
+ @media (max-width:600px) {
+     .cajon{
+        margin: auto;
+        width:680%;
+         float:600px;
+         
+          }   
+          .cajon2{
+            border-bottom: left;  
+            width: none;
+              float: none;
+          }     
+ }
+ .video{
+     width: 640px;
+     height: 420px;
+ }
+
+ }
